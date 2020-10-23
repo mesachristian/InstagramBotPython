@@ -1,0 +1,3 @@
+- Se separo en archivos y clases el mierdero de bot.py
+- Se creo una clase para los url endpoints de instagram
+- Se creo una clase para hacer las funciones basicas de post y get hacia instagram. Esta clase hereda de endpoints para usarlos. Se encarga del manejo de la sesion y se estan escribiendo los test pertinentes.
